@@ -12,10 +12,11 @@ git clone https://github.com/rammyres/algoritmos2.git .
 
 Após a importação e a clonagem, para executar qualquer questão de qualquer lista digite, no console ou terminal:
 
-java -cp p2listas.jar listaN.questaoX 
+linux $ java -cp dist/p2listas.jar listaN.questaoX 
+windows c:\ java -cp dist\p2listas.jar listaN.questaoX
 
 Onde N é o número da lista e X o da questão, exemplo: 
 
-java -cp p2listas.jar lista1.questao4 
+java -cp dist/p2listas.jar lista1.questao4 
 
 

@@ -20,13 +20,15 @@ public class questao2 {
         System.out.println("Olá, digite seu nome: ");
         nome = sc.nextLine();
         System.out.println("Digite agora suas notas, para que possamos calcular a média");
-        for(int i=1; i<5; i++) {
+              for(int i=1; i<5; i++) {
             System.out.println("Nota "+i);
             nota[i] = sc.nextFloat();           
         }
+        
         for (int i=1; i<5; i++){
             nota[0]+=nota[i];         
         }
+        
         System.out.printf("Olá %s, sua média é %.2f\n", nome, nota[0]/4);
     }    
 }
