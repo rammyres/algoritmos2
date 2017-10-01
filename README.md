@@ -2,6 +2,8 @@
 
 Postarei aqui os exercicios de Algoritmos e programação 2. 
 
+Caso você queira somente olhar os fontes veja na pasta src.
+
 ATENÇÃO: ESTE REPOSITÓRIO NÃO SEGUE AS REGRAS (pacote uapi.lista1)!
 
 Para usar estes arquivos clone este repositório em seu pc, importe o projeto no netbeans e o construa.
