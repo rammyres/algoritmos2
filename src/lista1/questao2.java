@@ -14,7 +14,7 @@ public class questao2 {
     public static void main(String[] args){
         String nome;
         float media;
-        float[] nota = new float[5];
+        float[] nota = new float[5]; //Em java os arrays precisam ser instanciados
         Scanner sc = new Scanner(System.in);
         
         System.out.println("Olá, digite seu nome: ");
